@@ -55,7 +55,7 @@ RUN echo "deb [ allow-insecure=yes ] http://apt.postgresql.org/pub/repos/apt/ bi
   postgresql-11 \
   postgresql-11-postgis-2.5 \
   postgresql-11-postgis-2.5-scripts \
-  postgresql-contrib-10 \
+  postgresql-contrib-11 \
   protobuf-c-compiler \
   python-mapnik \
   sudo \
